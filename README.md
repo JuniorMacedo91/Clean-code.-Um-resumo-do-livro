@@ -1,7 +1,11 @@
-# Conceitos-e-tecnicas-de-um-Codigo-Limpo
+# clean-code-um-resumo-sobre-o-livro
 O objetivo desse repositório é trazer um resumo das principais técnicas, utilizadas durante anos pelos mais renomados Programadores, como forma de facilitar o entendimento e também fixar os conceitos, principalmente, das pessoas que, assim como eu, estão iniciando nessa área.
 
 Cada capitulo finalizado, irei acrescentar o que aprendi.
+
+<p align="center">
+  <img src="coding.jpg" width="750px">
+</p>
 
 # Introdução
 
