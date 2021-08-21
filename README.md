@@ -7,6 +7,8 @@ Cada capitulo finalizado, irei acrescentar o que aprendi.
   <img src="coding.jpg" width="750px">
 </p>
 
+###### Foto de [Luiz Gomes](https://www.pexels.com/pt-br/foto/computador-laptop-preto-e-cinza-546819/) no Pexels
+
 # Introdução
 
 *Todos já nos sentimos aliviados aos vermos nosso programa confuso funcionar e decidimos que UMA BAGUNÇA QUE FUNCIONA É MELHOR DO QUE NADA.*
