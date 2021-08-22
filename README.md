@@ -3,6 +3,8 @@ O objetivo desse repositório é trazer um resumo das principais técnicas, util
 
 Cada capitulo finalizado, irei acrescentar o que aprendi.
 
+##### Caso sinta a necessidade de acrescentar ou modificar algo, fique a vontade. Como sempre digo: Estamos em constante desenvolvimento.
+
 <p align="center">
   <img src="coding.jpg" width="750px">
 </p>
