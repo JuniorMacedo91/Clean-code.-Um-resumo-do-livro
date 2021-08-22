@@ -6,7 +6,8 @@ Cada capitulo finalizado, irei acrescentar o que aprendi.
 ##### Caso sinta a necessidade de acrescentar ou modificar algo, fique a vontade. Como sempre digo: Estamos em constante desenvolvimento.
 
 ### Índice
-  1. [Nomes significativos (variáveis, funções, classes)](summary/nomes-significativos)
+  1. [Introdução](README.md.Introdução)
+  2. [Nomes significativos (variáveis, funções, classes)](summary/nomes-significativos.md)
 
 <p align="center">
   <img src="coding.jpg" width="750px">
