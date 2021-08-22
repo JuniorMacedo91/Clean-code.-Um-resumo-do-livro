@@ -1,4 +1,4 @@
-[Página Principal](Clean-code.-Um-resumo-do-livro.md)
+[Página Principal](#clean-code-resumo-do-livro)
 
 # Nomes significativos (variáveis, funções, classes)
 
