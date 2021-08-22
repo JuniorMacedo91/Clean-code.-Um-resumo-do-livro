@@ -86,15 +86,15 @@ Devemos evitar nomes que usem apenas uma letra. Em carater de exceção, podemos
 :x:
 ```javascript
 function calculate(number1,number2){
-let s = number1 + number2
-return s
+    let s = number1 + number2
+    return s
 }
 ```
 :heavy_check_mark:
 ```javascript
 function calculate(number1,number2){
-let sum = number1 + number2
-return sum
+    let sum = number1 + number2
+    return sum
 }
 ```
 Apesar de ser um nome óbvio, é fácil de localizar.
@@ -109,12 +109,60 @@ Isso acontece com nome de variáveis de uma letra só. Apesar de ser considerado
 
 :x:
 ```javascript
-
+function randomName(n){
+if(n === something){
+   return n
+} else if( n === something){
+   return n
+}
+...
+...
+...
+...
+}
 ```
+Apesar da função ser sortear nome, " n " não especifica se será pelo nome mesmo, por algum número.
+
 :heavy_check_mark:
 ```javascript
-
+function randomName(name){
+if(name === something){
+   return name
+} else if( name === something){
+   return name
+}
+...
+...
+...
+...
 }
 ```
 <hr>
 
+## Classes e Objetos
+
+Devem ter nomes de substantivos, evitando verbos.
+
+:heavy_check_mark:
+```javascript
+const CAR = {
+      name: 'Lamborghini Diablo',
+      color: 'Black',
+      year: '2019',
+};
+```
+<hr>
+
+## Funções
+
+Os nomes das funções devem ser verbos. Sempre indicando o que será feito ao chama - las.
+Também pode ser acrescidas de substantivos e métodos de acesso, alteração e autenticação como: GET, SET e IS.
+
+:heavy_check_mark:
+```javascript
+function toCalculate(){
+};
+
+function getName(){    
+}
+```
